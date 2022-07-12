@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X+V9Tps2wfPU+1YMSV8CoHLQ+Yx2J2+tFZ4Ty5QYGgc=",
+  "Source": "NEventStorePOC",
+  "BasePath": "_content/NEventStorePOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

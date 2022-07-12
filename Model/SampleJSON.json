@@ -1,0 +1,56 @@
+{
+        "VDN": "9950",
+        "ShortAnswerScript": "",
+        "AnswerScriptDetails": "<h3>The standard Lorem Ipsum passage, used since the 1500s</h3>",
+        "ExternalFile": null,
+        "AnswerScriptDetailType": 1,
+        "SanitizedAnswerScriptDetails": "<h3>The standard Lorem Ipsum passage, used since the 1500s</h3>",
+        "CID": "9950",
+        "SID": "0001",
+        "PID": "9950",
+        "AnswerScript": "Hi Scott test account",
+        "Name": "Scott's Test Account",
+        "City": "                                                       ",
+        "StateProvinceId": null,
+        "StateProvince": null,
+        "TimeZoneId": 7,
+        "TimeZone": {
+            "Abbreviation": "JT",
+            "TimeZoneInfoId": "Tokyo Standard Time",
+            "DisplayOrder": 9,
+            "UtcOffset": "+9: 0",
+            "Id": 7
+        },
+        "StatusId": 5,
+        "Status": {
+            "Description": "Dummy/Test",
+            "Id": 5
+        },
+        "IsLive": true,
+        "AccountServiceId": 7,
+        "AccountService": {
+            "Description": "EAP",
+            "Id": 7
+        },
+        "RelationshipManagerId": 6,
+        "RelationshipManager": {
+            "FirstName": "Scott",
+            "LastName": "Oldfield",
+            "Phone": null,
+            "Email": "scott.oldfield@protocallservices.com-mock",
+            "Id": 6
+        },
+        "IsPriorityFinalization": false,
+        "IsAutoPurgeEnabled": false,
+        "AutoPurgeDeadlineInHours": 0,
+        "AutoPurgeEffectiveDate": null,
+        "FtpSettings": null,
+        "IsOutboundCallFeatureEnabled": false,
+        "OutboundCallSettings": null,
+        "SendReportsToShareFile": true,
+        "AccountProcedures": null,
+        "AccountNameAndNumber": "9950-0001-9950 Scott's Test Account",
+        "AccountGUID": "7906a289-5ceb-e911-b5e9-000d3a3023f8",
+        "Tags": null,
+        "Id": 1925
+}

@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work-Space\\NEventStorePOC\\NEventStorePOC.csproj": {}
+  },
+  "projects": {
+    "D:\\Work-Space\\NEventStorePOC\\NEventStorePOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work-Space\\NEventStorePOC\\NEventStorePOC.csproj",
+        "projectName": "NEventStorePOC",
+        "projectPath": "D:\\Work-Space\\NEventStorePOC\\NEventStorePOC.csproj",
+        "packagesPath": "C:\\Users\\manu.radhakrishnan\\.nuget\\packages\\",
+        "outputPath": "D:\\Work-Space\\NEventStorePOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manu.radhakrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "NEventStore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "NEventStore.Persistence.MongoDB": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "NEventStore.Persistence.Sql": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2-beta1, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.3-beta1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.ComponentModel.Composition": {
+              "target": "Package",
+              "version": "[7.0.0-preview.5.22301.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
